@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711314975 source:c:\users\jakst\onedrive\pulpit\c++ projects\algorytmika\lab4\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+

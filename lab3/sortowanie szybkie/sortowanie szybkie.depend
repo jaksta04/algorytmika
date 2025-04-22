@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710066349 source:c:\users\jakst\onedrive\pulpit\c++ projects\lab3\sortowanie szybkie\main.cpp
+	<iostream>
+	<time.h>
+
+1710067784 source:c:\users\jakst\onedrive\pulpit\c++ projects\algorytmika\lab3\sortowanie szybkie\main.cpp
+	<iostream>
+	<time.h>
+
